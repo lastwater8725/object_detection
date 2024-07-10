@@ -1,0 +1,6 @@
+__pycache__/
+chromdriver-linux64/
+coco_annotations/
+data/
+labelme2coco.py/
+chromdriver/
